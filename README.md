@@ -4,6 +4,9 @@
 
 <hr>
 
+<br>
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/kennedybarros)](https://www.linkedin.com/in/guilhermedunguel/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/guielzito/)
 [![Instagram Badge](https://img.shields.io/badge/-MyWebsite-yellow?style=for-the-badge&logo=&logoColor=white&link=https://github.com/kennedybarros)](https://www.instagram.com/guielzito/)
@@ -17,6 +20,11 @@
 
 <h3 align="center">  <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
+<br>
+<hr>
+<br>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedunguel&layout=compact&theme=tokyonight)](https://github.com/guilhermedunguel/github-readme-stats)
 
