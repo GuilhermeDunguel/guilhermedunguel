@@ -18,11 +18,11 @@
 
 <p align="center">📌 HTML <strong>|</strong> CSS <strong>|</strong> JavaScript 📌</p>
 
-<h3 align="center">  <br>
+<h3 align="center">
 
 <br>
-<hr>
 <br>
+<hr>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
 
