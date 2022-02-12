@@ -17,5 +17,6 @@
 
 <h3 align="center">  <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedunguel&layout=compact&theme=tokyonight)](https://github.com/guilhermedunguel/github-readme-stats)
 
