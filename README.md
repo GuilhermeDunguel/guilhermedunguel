@@ -18,13 +18,11 @@
 
 <p align="center">📌 HTML <strong>|</strong> CSS <strong>|</strong> JavaScript 📌</p>
 
-<h3 align="center">
-
-<br>
 <br>
 <hr>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
+<h3 align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedunguel&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedunguel&layout=compact&theme=tokyonight)](https://github.com/guilhermedunguel/github-readme-stats)
-
