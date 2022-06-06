@@ -16,7 +16,7 @@
 
 <p align="center">Aqui compartilho um pouco da minha trajetória e evolução no Front-End. Espero que goste!</p>
 
-<p align="center">📌 HTML <strong>|</strong> CSS <strong>|</strong> JavaScript <strong>|</strong> TypeScript <strong>|</strong> ReactJS📌</p>
+<p align="center">📌 HTML <strong>|</strong> CSS <strong>|</strong> JavaScript <strong>|</strong> TypeScript <strong>|</strong> ReactJS📌 </p>
 
 <br>
 <hr>
