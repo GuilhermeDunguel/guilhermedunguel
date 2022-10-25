@@ -1,6 +1,6 @@
 <h4 align="center">
 
-![gifzinho](https://i.imgur.com/L7qaBQn.gif)
+![gifzinho](https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277)
 
 <hr>
 
