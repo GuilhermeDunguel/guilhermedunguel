@@ -16,19 +16,20 @@
 <strong align="left">Linguagens e tecnologias:</strong>
 
 <p align="left">
-  <img width="30px" src="https://skillicons.dev/icons?i=html alt="html icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=react" alt="react icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=css alt="css icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=sass" alt="sass icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=javascript alt="javascript icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=typescript" alt="typescript icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=react alt="react icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=sass alt="sass icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=html" alt="html icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=typescript alt="typescript icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=css" alt="css icon"/>
   &nbsp;
-  <img width="30px" src="https://skillicons.dev/icons?i=styledcomponents alt="styledcomponents icon"/>
+  <img width="30px" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/>
+  &nbsp;
 </p>
 
 
