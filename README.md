@@ -66,7 +66,7 @@
     </td>
     <td>
     <a href="https://github.com/guilhermedunguel/incicle-test" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermedunguel&repo=incicle-test&theme=dark&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermedunguel&repo=iceberg-endomarketing&theme=dark&hide_border=true">
     </a>
     </td>
   </tr>
